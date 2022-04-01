@@ -48,7 +48,7 @@ int main(void)
     //printf("Sum: %i\n",sum);
     //printf("Sum(*2): %i\n",sum2);
     finalsum = sum+sum2;
-    printf("%i\n",finalsum);
+    // printf("%i\n",finalsum);
     if((finalsum %10) == 0)
     {
         int av = cnum/(pow(10,(c-2)));
